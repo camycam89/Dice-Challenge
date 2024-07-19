@@ -1,1 +1,1 @@
-Refresh the page to roll the dice 
+Refresh the page to roll the dice  - Bigger number is the winner!
